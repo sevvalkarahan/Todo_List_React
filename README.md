@@ -1,1 +1,1 @@
-![]('./src/assets/Ekran görüntüsü 2025-08-06 133057.png')
+![]('./src/assets/cikti.png')

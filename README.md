@@ -1,1 +1,1 @@
-![]('./src/assets/cikti.png')
+![]('cikti.png')
